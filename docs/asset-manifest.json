@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/luke-api-walker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/luke-api-walker/static/js/main.452bff7f.chunk.js",
+    "main.js.map": "/luke-api-walker/static/js/main.452bff7f.chunk.js.map",
+    "runtime-main.js": "/luke-api-walker/static/js/runtime-main.09d58874.js",
+    "runtime-main.js.map": "/luke-api-walker/static/js/runtime-main.09d58874.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/luke-api-walker/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.07f7d806.chunk.js": "/luke-api-walker/static/js/2.07f7d806.chunk.js",
+    "static/js/2.07f7d806.chunk.js.map": "/luke-api-walker/static/js/2.07f7d806.chunk.js.map",
+    "index.html": "/luke-api-walker/index.html",
+    "precache-manifest.c15e0515f80f4354115c008093137d2e.js": "/luke-api-walker/precache-manifest.c15e0515f80f4354115c008093137d2e.js",
+    "service-worker.js": "/luke-api-walker/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/luke-api-walker/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/luke-api-walker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.07f7d806.chunk.js.LICENSE.txt": "/luke-api-walker/static/js/2.07f7d806.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09d58874.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.07f7d806.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.452bff7f.chunk.js"
+  ]
+}
